@@ -9,3 +9,11 @@ It displays a loading message and a clean circular animation — perfect for spl
 - 🎨 Animated rotating loader
 - 🖥️ Responsive and centered layout
 - 🧠 Inspired by Slack’s minimal design
+
+
+## 🙋‍♀️ Author
+
+**Pachigolla Sai Krishna Naga Sahithi**  
+Frontend Developer | API Explorer | Building Projects to Learn  
+📧 sahithipachigolla.work@gmail.com  
+🌐 [GitHub](https://github.com/sahipachigolla)
